@@ -1,0 +1,43 @@
+.hd
+{
+	background-color: rgba(0,0,255,0.9);
+}
+h1{
+	color: white;
+}
+.hdd
+{
+	margin-top: 19%;
+}
+.hz
+{
+	height: 30px;
+}
+.hdz
+{
+	margin-top: -6%;
+}
+@media screen and (min-width: 769px)
+{
+      .yy
+      {
+      	width:30%;
+      }
+      .zz
+      {
+      	width:5%;
+      }
+}
+.bg{
+      background-color: #0F0330;
+    }
+.margin {
+      margin-top: 6%;
+}
+.btn{
+      background-color: #050C6D;
+      color: white;
+}
+.btn:hover{
+      color: yellow;
+}
