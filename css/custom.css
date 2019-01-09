@@ -1,43 +1,57 @@
 .hd
 {
-	background-color: rgba(0,0,255,0.9);
+      background-color: rgba(0,0,255,0.9);
 }
 h1{
-	color: white;
+      color: white;
 }
 .hdd
 {
-	margin-top: 19%;
+      margin-top: 13%;
 }
 .hz
 {
-	height: 30px;
+      height: 30px;
 }
 .hdz
 {
-	margin-top: -6%;
+      margin-top: -6%;
 }
 @media screen and (min-width: 769px)
 {
       .yy
       {
-      	width:30%;
+            width:30%;
       }
       .zz
       {
-      	width:5%;
+            width:5%;
       }
 }
 .bg{
       background-color: #0F0330;
     }
 .margin {
-      margin-top: 6%;
+      margin-top: 4.5%;
 }
 .btn{
       background-color: #050C6D;
       color: white;
+      /*opacity: 0.8;*/
 }
 .btn:hover{
-      color: yellow;
+      color: #EBEBC4;
+}
+.section-heading1{
+      color: white;
+}
+@media all and (max-width: 1024px)
+{
+      .hdd{
+           margin-top: 19%;
+      }
+}
+.btn:focus
+{
+      color: white;
 }

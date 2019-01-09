@@ -499,11 +499,11 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .navbar-nav > li > a:hover {
-  color: yellow;
+  color: #EBEBC4;
 }
 
 .probootstrap-navbar .navbar-nav > li > a:hover, .probootstrap-navbar .navbar-nav > li > a:focus, .probootstrap-navbar .navbar-nav > li > a:active {
-  color: yellow;
+  color: #EBEBC4;
 }
 
 .probootstrap-navbar .navbar-nav > li.open > a:hover, .probootstrap-navbar .navbar-nav > li.open > a:focus, .probootstrap-navbar .navbar-nav > li.open > a {
@@ -512,12 +512,12 @@ a:hover, a:focus, a:active {
 
 .probootstrap-navbar .navbar-nav > li.active > a {
   background: none !important;
-  color: yellow !important;
+  color: #EBEBC4 !important;
 }
 
 @media screen and (max-width: 768px) {
   .probootstrap-navbar .navbar-nav > li.active > a {
-    color: yellow !important;
+    color: #EBEBC4 !important;
   }
 }
 
@@ -945,7 +945,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-section {
-  padding: 3em 0;
+  padding: 5em 0;
   position: relative;
 }
 
@@ -971,7 +971,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-section .section-heading h2 {
-  color: white;
+  color: #0F0330;
 }
 
 .probootstrap-section.probootstrap-section-colored .section-heading p {
